@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/19-Dark Fantasy Studio- The encounter (seamless).mp3-6d2cdb66031a39890bf9e6749526cbf1.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/19-Dark Fantasy Studio- The encounter (seamless).mp3"
+dest_files=[ "res://.import/19-Dark Fantasy Studio- The encounter (seamless).mp3-6d2cdb66031a39890bf9e6749526cbf1.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/4- Dark Fantasy Studio- Demon at the door.mp3-fdc6dea859a69676b929d38ffab8d989.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/4- Dark Fantasy Studio- Demon at the door.mp3"
+dest_files=[ "res://.import/4- Dark Fantasy Studio- Demon at the door.mp3-fdc6dea859a69676b929d38ffab8d989.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

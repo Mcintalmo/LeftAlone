@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/11-Dark Fantasy Studio- 13 sins (seamless).mp3-b129199614dc13e3e982508e2a5c4e95.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/11-Dark Fantasy Studio- 13 sins (seamless).mp3"
+dest_files=[ "res://.import/11-Dark Fantasy Studio- 13 sins (seamless).mp3-b129199614dc13e3e982508e2a5c4e95.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

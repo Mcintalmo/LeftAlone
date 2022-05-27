@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/10-Dark Fantasy Studio- Until dawn (seamless).mp3-ed381d2fb411c94ef3367a24bfb6fe9d.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/10-Dark Fantasy Studio- Until dawn (seamless).mp3"
+dest_files=[ "res://.import/10-Dark Fantasy Studio- Until dawn (seamless).mp3-ed381d2fb411c94ef3367a24bfb6fe9d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

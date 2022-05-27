@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/7-Dark Fantasy Studio- Deadlights chronicles (seamless).mp3-bf999c90fb98f5c82068e0cb1af1da38.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/7-Dark Fantasy Studio- Deadlights chronicles (seamless).mp3"
+dest_files=[ "res://.import/7-Dark Fantasy Studio- Deadlights chronicles (seamless).mp3-bf999c90fb98f5c82068e0cb1af1da38.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/15- Dark Fantasy Studio- After dark.mp3-4414bc49bcb605126034afe719b347d7.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/15- Dark Fantasy Studio- After dark.mp3"
+dest_files=[ "res://.import/15- Dark Fantasy Studio- After dark.mp3-4414bc49bcb605126034afe719b347d7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

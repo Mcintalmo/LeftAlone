@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/6-Dark Fantasy Studio- Once unpon a time (seamless).mp3-7539b29bd13923e290227500ef5b1254.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/6-Dark Fantasy Studio- Once unpon a time (seamless).mp3"
+dest_files=[ "res://.import/6-Dark Fantasy Studio- Once unpon a time (seamless).mp3-7539b29bd13923e290227500ef5b1254.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

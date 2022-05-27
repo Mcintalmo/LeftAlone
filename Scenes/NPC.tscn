@@ -1,0 +1,64 @@
+[gd_scene load_steps=8 format=2]
+
+[ext_resource path="res://src/NPC.gd" type="Script" id=1]
+[ext_resource path="res://assets/graphics/FreeDemo/ShirtGray.png" type="Texture" id=2]
+[ext_resource path="res://assets/graphics/FreeDemo/Template.png" type="Texture" id=3]
+[ext_resource path="res://assets/graphics/FreeDemo/ShoesWhite.png" type="Texture" id=4]
+[ext_resource path="res://assets/graphics/FreeDemo/SkirtGray.png" type="Texture" id=5]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 5, 2 )
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 5, 11 )
+
+[node name="NPC" type="KinematicBody2D"]
+collision_layer = 2
+script = ExtResource( 1 )
+ai_state = 1
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 0, 10 )
+shape = SubResource( 1 )
+
+[node name="InteractArea" type="Area2D" parent="."]
+collision_layer = 2
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="InteractArea"]
+shape = SubResource( 2 )
+
+[node name="Template" type="Sprite" parent="."]
+texture = ExtResource( 3 )
+hframes = 8
+vframes = 12
+
+[node name="Shirt" type="Sprite" parent="."]
+texture = ExtResource( 2 )
+hframes = 8
+vframes = 12
+
+[node name="Shoes" type="Sprite" parent="."]
+modulate = Color( 0.113725, 0.113725, 0.113725, 1 )
+texture = ExtResource( 4 )
+hframes = 8
+vframes = 12
+
+[node name="Skirt" type="Sprite" parent="."]
+texture = ExtResource( 5 )
+hframes = 8
+vframes = 12
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+
+[node name="ProgressBar" type="ProgressBar" parent="."]
+margin_left = -20.0
+margin_top = 12.0
+margin_right = 4.0
+margin_bottom = 26.0
+rect_rotation = -89.9999
+value = 24.3
+percent_visible = false
+__meta__ = {
+"_edit_use_anchors_": false
+}

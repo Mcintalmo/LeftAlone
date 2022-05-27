@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/9- Dark Fantasy Studio- Trust me.mp3-1732cff11dcd4fcf7c6b03bd850d3234.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/9- Dark Fantasy Studio- Trust me.mp3"
+dest_files=[ "res://.import/9- Dark Fantasy Studio- Trust me.mp3-1732cff11dcd4fcf7c6b03bd850d3234.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

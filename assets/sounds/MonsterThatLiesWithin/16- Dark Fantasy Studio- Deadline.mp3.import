@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/16- Dark Fantasy Studio- Deadline.mp3-c3788f5cdc93ae46918f52e9594c6c52.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/16- Dark Fantasy Studio- Deadline.mp3"
+dest_files=[ "res://.import/16- Dark Fantasy Studio- Deadline.mp3-c3788f5cdc93ae46918f52e9594c6c52.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

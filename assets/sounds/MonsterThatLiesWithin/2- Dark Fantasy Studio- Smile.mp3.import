@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/2- Dark Fantasy Studio- Smile.mp3-fb1d4aa5cdad3385a441a561f5549c1e.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/2- Dark Fantasy Studio- Smile.mp3"
+dest_files=[ "res://.import/2- Dark Fantasy Studio- Smile.mp3-fb1d4aa5cdad3385a441a561f5549c1e.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

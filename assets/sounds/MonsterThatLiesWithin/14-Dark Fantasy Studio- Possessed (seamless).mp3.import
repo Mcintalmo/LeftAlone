@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/14-Dark Fantasy Studio- Possessed (seamless).mp3-665c18c5c85dbb2957944f433c59416f.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/14-Dark Fantasy Studio- Possessed (seamless).mp3"
+dest_files=[ "res://.import/14-Dark Fantasy Studio- Possessed (seamless).mp3-665c18c5c85dbb2957944f433c59416f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

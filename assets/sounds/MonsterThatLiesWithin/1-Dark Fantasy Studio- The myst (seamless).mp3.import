@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/1-Dark Fantasy Studio- The myst (seamless).mp3-618759f720ca21ab1d20647dc36107cd.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/1-Dark Fantasy Studio- The myst (seamless).mp3"
+dest_files=[ "res://.import/1-Dark Fantasy Studio- The myst (seamless).mp3-618759f720ca21ab1d20647dc36107cd.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

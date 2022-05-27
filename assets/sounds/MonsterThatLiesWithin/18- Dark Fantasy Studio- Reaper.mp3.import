@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/18- Dark Fantasy Studio- Reaper.mp3-05c4a876063c472928595604a8d767f6.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/18- Dark Fantasy Studio- Reaper.mp3"
+dest_files=[ "res://.import/18- Dark Fantasy Studio- Reaper.mp3-05c4a876063c472928595604a8d767f6.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

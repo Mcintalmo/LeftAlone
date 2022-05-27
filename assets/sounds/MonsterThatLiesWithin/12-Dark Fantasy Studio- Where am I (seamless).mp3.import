@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/12-Dark Fantasy Studio- Where am I (seamless).mp3-f4295c2ab0987efda102bfb02335b735.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/12-Dark Fantasy Studio- Where am I (seamless).mp3"
+dest_files=[ "res://.import/12-Dark Fantasy Studio- Where am I (seamless).mp3-f4295c2ab0987efda102bfb02335b735.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

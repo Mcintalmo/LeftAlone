@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/17-Dark Fantasy Studio- Graveyard (seamless).mp3-db5473553d9073197ee6a0ebc0c556b4.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/17-Dark Fantasy Studio- Graveyard (seamless).mp3"
+dest_files=[ "res://.import/17-Dark Fantasy Studio- Graveyard (seamless).mp3-db5473553d9073197ee6a0ebc0c556b4.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

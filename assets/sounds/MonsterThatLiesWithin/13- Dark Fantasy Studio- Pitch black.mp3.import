@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/13- Dark Fantasy Studio- Pitch black.mp3-ba7ee379cade95cae53c6f3ec23628b7.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/MonsterThatLiesWithin/13- Dark Fantasy Studio- Pitch black.mp3"
+dest_files=[ "res://.import/13- Dark Fantasy Studio- Pitch black.mp3-ba7ee379cade95cae53c6f3ec23628b7.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
